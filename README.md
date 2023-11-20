@@ -35,6 +35,6 @@
 <br/>
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varlesse04@gmail.com)](mailto:varlesse04@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/MatteusV/)
+[![Linkedin](https://img.shields.io/badge/-matteusvarlesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)
+[![Gmail Badge](https://img.shields.io/badge/-varlesse04@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varlesse04@gmail.com)](mailto:varlesse04@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/MatteusV?label=follow&style=social)](https://github.com/MatteusV/)
