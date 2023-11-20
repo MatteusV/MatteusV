@@ -37,4 +37,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-matteusvarlesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)
 [![Gmail Badge](https://img.shields.io/badge/-varlesse04@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varlesse04@gmail.com)](mailto:varlesse04@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/MatteusV?label=follow&style=social)](https://github.com/MatteusV/)
