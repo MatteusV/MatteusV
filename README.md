@@ -33,11 +33,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br))
