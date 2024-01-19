@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise e desenvolvimento de sistemas** na <a href="https://estacio.br/inscricao?gclid=b9038cd57a93150d3dbfe98e92c91e94&gclsrc=3p.ds&msclkid=b9038cd57a93150d3dbfe98e92c91e94&utm_source=bing&utm_medium=cpc&utm_campaign=mm_estacio_grad_fundo_conv_pres_net_microsoft_search_marca_na_puro&utm_term=estacio&utm_content=br_key_puro">Estácio</a>.
 - 💼 Em busca da primeira oportunidade
-- 🌱 &nbsp; Aprendendo mais sobre **Javascript, React, Next, Node, Prisma, Docker**.
+- 🌱 &nbsp; Aprendendo mais sobre **Javascript, React, Next, Node, Docker**.
 
 <h3>Minhas Skills</h3>
 
@@ -16,7 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir)
 
 **Utilidades**
 
