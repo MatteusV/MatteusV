@@ -34,13 +34,13 @@
 
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=matteusv&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
-    </td>
+    </td> -->
     <td>
       <img
         align="left"
