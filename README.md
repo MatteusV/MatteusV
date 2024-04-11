@@ -43,7 +43,7 @@
     </td> -->
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
@@ -51,7 +51,7 @@
     <td>
       <br />
       <img
-        align="right"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=matteusv&theme=dark&hide_border=false"
         alt="Github Stats"
       />
