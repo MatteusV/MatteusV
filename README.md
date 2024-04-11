@@ -31,6 +31,36 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=matteusv&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=matteusv&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-matteusvarlesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)
