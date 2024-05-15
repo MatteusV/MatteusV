@@ -4,7 +4,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise e desenvolvimento de sistemas** na <a href="https://estacio.br/inscricao?gclid=b9038cd57a93150d3dbfe98e92c91e94&gclsrc=3p.ds&msclkid=b9038cd57a93150d3dbfe98e92c91e94&utm_source=bing&utm_medium=cpc&utm_campaign=mm_estacio_grad_fundo_conv_pres_net_microsoft_search_marca_na_puro&utm_term=estacio&utm_content=br_key_puro">Estácio</a>.
 - 💼 Em busca da primeira oportunidade
-- 🌱 &nbsp; Aprendendo mais sobre **Javascript, React, Next, Node, Nest, Docker**.
+- 🌱 &nbsp; Aprendendo mais sobre **Javascript, React, Next, Node, Nest, Elixir e Docker**.
 
 <h3>Minhas Skills</h3>
 
