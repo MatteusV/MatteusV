@@ -1,47 +1,53 @@
+<h2>Matteus Varlesse</h2>
 
-<h3>Sobre mim</h3>
+Desenvolvedor Fullstack com experiência em aplicações web, integrações com IA e 
+sistemas em produção. Trabalho com React, Next.js, Vue.js, Node.js, NestJS e Python, 
+com projetos em energia, saúde e edtech.
+---
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Análise e desenvolvimento de sistemas** na <a href="https://estacio.br/inscricao?gclid=b9038cd57a93150d3dbfe98e92c91e94&gclsrc=3p.ds&msclkid=b9038cd57a93150d3dbfe98e92c91e94&utm_source=bing&utm_medium=cpc&utm_campaign=mm_estacio_grad_fundo_conv_pres_net_microsoft_search_marca_na_puro&utm_term=estacio&utm_content=br_key_puro">Estácio</a>.
-- 💼 Em busca da primeira oportunidade
-- 🌱 &nbsp; Aprendendo mais sobre **Javascript, React, Next, Node, Nest, Elixir e Docker**.
+<h3>Stack</h3>
 
-<h3>Minhas Skills</h3>
+**Frontend**
 
-**Aplicações e dados**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Infra e Observabilidade**
 
-**Utilidades**
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**Ferramentas**
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
+---
 
 <table>
   <tr>
-<!--     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=matteusv&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td> -->
     <td>
       <img
         align="center"
@@ -50,7 +56,6 @@
       />
     </td>
     <td>
-      <br />
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=matteusv&theme=dark&hide_border=false"
@@ -60,9 +65,10 @@
   </tr>
 </table>
 
-<br/>
+---
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-matteusvarlesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)](https://www.linkedin.com/in/matteus-varlesse-83435216a/?originalSubdomain=br)
-[![Gmail Badge](https://img.shields.io/badge/-varlesse04@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varlesse04@gmail.com)](mailto:varlesse04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-matteusvarlesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteusvarlesse)](https://www.linkedin.com/in/matteus-varlesse/)
+[![Gmail](https://img.shields.io/badge/-varlesse04@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varlesse04@gmail.com)](mailto:varlesse04@gmail.com)
+[![GitHub](https://img.shields.io/badge/-MatteusV-333333?style=flat-square&logo=github&link=https://github.com/MatteusV)](https://github.com/MatteusV)
