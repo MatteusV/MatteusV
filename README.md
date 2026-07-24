@@ -1,8 +1,7 @@
 <h2>Matteus Varlesse</h2>
 
 Desenvolvedor Fullstack com experiência em aplicações web, integrações com IA e 
-sistemas em produção. Trabalho com React, Next.js, Vue.js, Node.js, NestJS e Python, 
-com projetos em energia, saúde e edtech.
+sistemas em produção. Trabalho com React, Next.js, Vue.js, Node.js, NestJS e Python
 ---
 
 <h3>Stack</h3>
