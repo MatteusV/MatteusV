@@ -1,7 +1,7 @@
 <!-- ═════════════════════════ HERO BANNER ═════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:13111C,100:8B5CF6&height=180&section=header&text=Matteus%20Varlesse&fontColor=F5F3FF&fontSize=38&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13111C,100:8B5CF6&height=180&section=header&text=Matteus%20Varlesse&fontColor=F5F3FF&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/MatteusV">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Software+Engineer;Apps+web+e+integra%C3%A7%C3%B5es+com+IA;Sistemas+em+produ%C3%A7%C3%A3o" alt="Software Engineer · apps web e integrações com IA" />
@@ -105,4 +105,4 @@
 </div>
 
 <!-- ═════════════════════════ FOOTER WAVE ═════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B5CF6,100:13111C&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:13111C&height=80&section=footer" width="100%" />
